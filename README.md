@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hey, Noelia here! 👋
 
-<!--
-**NoeliaIntriago/NoeliaIntriago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science student at ESPOL 💻🐢
+🔭 I’m currently working on software development
+🌱 I’m currently learning database administration
+👯 I’m looking to collaborate on diverse projects
+🤔 I’m looking for help with C & Linux
+💬 Ask me about Python & Java
+📫 How to reach me: noinsanc@espol.edu.ec / noelia-2345@hotmail.com
+😄 Pronouns: she/her
+⚡ Fun fact: I don't like avocado, but I do like guacamole
