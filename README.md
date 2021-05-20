@@ -14,8 +14,6 @@
   <div align = "left">
     <b>GitHub stats</b><br>
     ![NoeliaIntriago's stats](https://github-readme-stats.vercel.app/api?username=NoeliaIntriago&count_private=true&show_icons=true&theme=radical)<br>
-  </div>
-  <div align = "right">
     <b>Top Languages</b><br>
     ![NoeliaIntriago's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoeliaIntriago&show_icons=true&theme=radical)<br>
   </div>
