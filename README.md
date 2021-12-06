@@ -5,7 +5,7 @@
   Computer Science student at ESPOL 💻🐢<br>
   Member of Google Developer Group Guayaquil 💻<br>
   
-  🌱 I’m currently learning database administration<br>
+  🌱 I’m currently learning database administration & web development<br>
   👯 I’m looking to collaborate on diverse projects<br>
   🤔 I’m looking for help with C & Linux<br>
   💬 Ask me about Python & Java<br>
