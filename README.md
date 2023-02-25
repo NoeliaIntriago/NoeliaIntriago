@@ -1,6 +1,9 @@
 <p align="center">
 
   <h1 align="center"> Hello, Noelia here! 👋</h1>
+  <p align="center">
+    <img width="128px" src="https://avatars.githubusercontent.com/u/67925801?v=4">
+  </p>
   <p align="center"> 21 years old - Guayaquil, Ecuador </b> 🇪🇨 </p>
   <p align="center"> I am a <b>Computer Science</b> student at <b>ESPOL</b> 💻🐢 </p>
   <p align="center"> 🌱 I’m currently learning and working on full-stack development </p>
@@ -21,7 +24,6 @@
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-Programming-yellow"></a>
     <a href=""><img alt="PHP" src="https://img.shields.io/badge/PHP-Programming-yellow"></a>
 </p>
-orange
 <p>
   <h3> Technologies I'm interested on </h3>
   <a href=""><img alt="Angular" src="https://img.shields.io/badge/Angular-Framework-green"></a>
