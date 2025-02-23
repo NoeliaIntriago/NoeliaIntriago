@@ -45,7 +45,6 @@
 
 ### Contact me
 <div align="center">
-  <span style="padding: 1px;"><a href="https://twitter.com/nols_2305"><img width="24px" src="https://user-images.githubusercontent.com/67925801/221372818-4b9586e5-d9fb-463e-9390-1dc9245a0fea.png"> @nols_2305 </a></span>
   <span style="padding: 1px;"><a href="https://www.linkedin.com/in/noelia-intriago-s%C3%A1nchez-b42aa71a9/"><img width="24px" src="https://user-images.githubusercontent.com/67925801/221373024-ccc341ae-9085-457a-b299-10dc14d5dd1e.png"> Noelia Intriago Sánchez </a></span>
   <span style="padding: 1px;"><a href="https://www.instagram.com/noly.2305/"><img width="24px" src="https://user-images.githubusercontent.com/67925801/221373089-f5ab6d5a-e6fe-4ffd-9638-912b44d25b4d.png"> @noly.2305 </a></span>
 </div>
