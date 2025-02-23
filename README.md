@@ -1,60 +1,52 @@
-<p align="center">
+### Hello, Noelia here! 👋
 
-  <h1 align="center"> Hello, Noelia here! 👋</h1>
-  <p align="center">
-    <img width="128px" src="https://avatars.githubusercontent.com/u/67925801?v=4">
-  </p>
-  <p align="center"> 21 years old - Guayaquil, Ecuador </b> 🇪🇨 </p>
-  <p align="center"> I am a <b>Computer Science</b> student at <b>ESPOL</b> 💻🐢 </p>
-  <p align="center"> 🌱 I’m currently learning and working on full-stack development </p>
-  <p align="center"> 👯 I’m open to collaborate on diverse projects </p>
-  <p align="center"> 🤔 Still forgetting bout' what I ate at breakfast </p>
-  
-</p>
-<br>
-<p>
-    <h3>Technologies I use</h3>
-    <a href=""><img alt="VueJS" src="https://img.shields.io/badge/VueJS-Framework-green"></a>
-    <a href=""><img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-Framework-green"></a>
-    <a href=""><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-Framework-green"></a>
-    <a href=""><img alt="Laravel" src="https://img.shields.io/badge/Laravel-Framework-green"></a>
-    <a href=""><img alt="MySQL" src="https://img.shields.io/badge/MySQL-Database-blue"></a>
-    <a href=""><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-Database-blue"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-Programming-yellow"></a>
-    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-Programming-yellow"></a>
-    <a href=""><img alt="PHP" src="https://img.shields.io/badge/PHP-Programming-yellow"></a>
-</p>
-<p>
-  <h3> Technologies I'm interested on </h3>
-  <a href=""><img alt="Angular" src="https://img.shields.io/badge/Angular-Framework-green"></a>
-  <a href=""><img alt="Docker" src="https://img.shields.io/badge/Docker-Software-orange"></a>
-  <a href=""><img alt="Django" src="https://img.shields.io/badge/Django-Framework-green"></a>
-  <a href=""><img alt="Flutter" src="https://img.shields.io/badge/Flutter-Framework-green"></a>
-  <a href=""><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-Framework-green"></a>
-  <a href=""><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Database-blue"></a>
-</p>
-<br>
-<p align="center">
-  <h2 align="center"> GitHub Info </h2>
-</p>
-<p align="center">
-  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=NoeliaIntriago&count_private=true&show_icons=true&theme=dark"></a>
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoeliaIntriago&layout=compact&theme=dark"></a>
-</p>
-<br>
-<p align="center">
-  
-  <h2 align="center"> Contact me... </h2>
+- 🗺️ 23 YO from Guayaqui, Ecuador
+- 🧑‍🎓 Computer Science Engineer from ESPOL
+- 🖥️ Currently working as fullstack developer
+- 👯 I’m open to collaborate on diverse projects
+- 🤔 Still forgetting bout' what I ate at breakfast 
 
-  <p align="center">
-    <a href="https://twitter.com/nols_2305"><img width="24px" src="https://user-images.githubusercontent.com/67925801/221372818-4b9586e5-d9fb-463e-9390-1dc9245a0fea.png"> @nols_2305 </a>
-  </p>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/noelia-intriago-s%C3%A1nchez-b42aa71a9/"><img width="24px" src="https://user-images.githubusercontent.com/67925801/221373024-ccc341ae-9085-457a-b299-10dc14d5dd1e.png"> Noelia Intriago Sánchez </a>
-  </p>
-  <p align="center">
-  <a href="https://www.instagram.com/noly.2305/"><img width="24px" src="https://user-images.githubusercontent.com/67925801/221373089-f5ab6d5a-e6fe-4ffd-9638-912b44d25b4d.png"> @noly.2305 </a>
-  </p>
-  
-</p>
+---
+
+### Currently, I'm using
+
+<div align="center">
+  <img src="https://devicon-website.vercel.app/api/vuejs/original.svg" width="50">
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" width="50">
+  <img src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg" width="50">
+  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" width="50">
+  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" width="50">
+  <img src="https://devicon-website.vercel.app/api/mongodb/plain-wordmark.svg" width="50">
+  <img src="https://devicon-website.vercel.app/api/python/original.svg" width="50">
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50">
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="50">
+  <img src="https://devicon-website.vercel.app/api/php/original.svg" width="50">
+</div>
+
+
+### But I'd like to learn
+
+<div align="center">
+  <img src="https://devicon-website.vercel.app/api/react/original.svg" width="5%">
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" width="5%"></img>
+  <img src="https://devicon-website.vercel.app/api/docker/original.svg" width="5%"></img>
+  <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="5%"></img>
+  <img src="https://devicon-website.vercel.app/api/fastapi/original.svg" width="5%"></img>
+  <img src="https://devicon-website.vercel.app/api/dot-net/original.svg" width="5%"></img>
+</div>
+
+---
+
+### Stats
+![NoeliaIntriago's Stats](https://github-readme-stats.vercel.app/api?username=NoeliaIntriago&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![NoeliaIntriago's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoeliaIntriago&theme=vue-dark&hide_border=true)
+
+---
+
+### Contact me
+<div align="center">
+  <span style="padding: 1px;"><a href="https://twitter.com/nols_2305"><img width="24px" src="https://user-images.githubusercontent.com/67925801/221372818-4b9586e5-d9fb-463e-9390-1dc9245a0fea.png"> @nols_2305 </a></span>
+  <span style="padding: 1px;"><a href="https://www.linkedin.com/in/noelia-intriago-s%C3%A1nchez-b42aa71a9/"><img width="24px" src="https://user-images.githubusercontent.com/67925801/221373024-ccc341ae-9085-457a-b299-10dc14d5dd1e.png"> Noelia Intriago Sánchez </a></span>
+  <span style="padding: 1px;"><a href="https://www.instagram.com/noly.2305/"><img width="24px" src="https://user-images.githubusercontent.com/67925801/221373089-f5ab6d5a-e6fe-4ffd-9638-912b44d25b4d.png"> @noly.2305 </a></span>
+</div>
 
